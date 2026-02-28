@@ -1,16 +1,6 @@
-# flutter_car_installmemt_app
+## Mobile Application with Flutter&Dart
+## แอปพลิแคชั่นคำนวนค่างวดรถต่อเดือน
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" src="https://github.com/user-attachments/assets/574d659b-db33-4853-b877-b15ae0837936" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/912becfe-b459-4661-8b95-b370d61f9265" />
